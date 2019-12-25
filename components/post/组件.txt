@@ -1,0 +1,2 @@
+Correlative.vue    旅游详情相关攻略组件
+travelDetails.vue    旅游详情详情组件
